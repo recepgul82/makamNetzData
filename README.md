@@ -12,4 +12,4 @@ Baysal, O. Gül, R., Şeftali Y.C., Yalçın, Z., Çolakoğlu Sarı, G. (2024). 
 Şeftali, Y.C., Baysal, O., Çolakoğlu Sarı, G., Gül, R. (2024).   
 https://github.com/recepgul82/makamNetzData/tree/main/cesni_agi
 
-![image](https://github.com/user-attachments/assets/811f5d3b-e185-42ff-bff6-01c832d14ba1)
+
