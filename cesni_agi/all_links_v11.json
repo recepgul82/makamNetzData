@@ -1,0 +1,7506 @@
+[
+    {
+        "id": 1,
+        "relations": "p_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 2,
+        "relations": "p_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 7,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 8,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 9,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 114,
+        "target_name": "Çargâh/Uşşak Çesni"
+    },
+    {
+        "id": 10,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 3086,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 175,
+        "target_name": "Nevâ/Saba Çesni"
+    },
+    {
+        "id": 3087,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 177,
+        "target_name": "Çargâh/Hicaz Çesni"
+    },
+    {
+        "id": 3088,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 183,
+        "target_name": "Kürdi/Nikriz Çesni"
+    },
+    {
+        "id": 3693,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 3694,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 3940,
+        "relations": "s_axis",
+        "source": 39,
+        "source_name": "Acem Perde",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 87,
+        "relations": "p_axis",
+        "source": 95,
+        "source_name": "Acem Aşiran Perde",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 89,
+        "relations": "p_axis",
+        "source": 95,
+        "source_name": "Acem Aşiran Perde",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 3702,
+        "relations": "s_axis",
+        "source": 95,
+        "source_name": "Acem Aşiran Perde",
+        "target": 125,
+        "target_name": "Yegâh/Uşşak Çesni"
+    },
+    {
+        "id": 3703,
+        "relations": "s_axis",
+        "source": 95,
+        "source_name": "Acem Aşiran Perde",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 141,
+        "relations": "p_axis",
+        "source": 20,
+        "source_name": "Buselik Perde",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 142,
+        "relations": "p_axis",
+        "source": 20,
+        "source_name": "Buselik Perde",
+        "target": 21,
+        "target_name": "Buselik/Nişabur Çesni"
+    },
+    {
+        "id": 147,
+        "relations": "s_axis",
+        "source": 20,
+        "source_name": "Buselik Perde",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 3089,
+        "relations": "p_axis",
+        "source": 20,
+        "source_name": "Buselik Perde",
+        "target": 173,
+        "target_name": "Buselik/Hicaz Çesni"
+    },
+    {
+        "id": 212,
+        "relations": "p_axis",
+        "source": 82,
+        "source_name": "Dik Hisar Perde",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 213,
+        "relations": "p_axis",
+        "source": 82,
+        "source_name": "Dik Hisar Perde",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 214,
+        "relations": "p_axis",
+        "source": 82,
+        "source_name": "Dik Hisar Perde",
+        "target": 84,
+        "target_name": "Dik Hisar/Nikriz Çesni"
+    },
+    {
+        "id": 277,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 278,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 279,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 7,
+        "target_name": "Dügâh/Sabâ Çesni"
+    },
+    {
+        "id": 280,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 281,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 282,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 283,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 285,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 286,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 287,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 288,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 74,
+        "target_name": "Yegâh/Nigar Çesni"
+    },
+    {
+        "id": 290,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 291,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 94,
+        "target_name": "Yegâh/Nikriz Çesni"
+    },
+    {
+        "id": 292,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 293,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 294,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 62,
+        "target_name": "Hüseyni Aşiran/Hicaz Çesni"
+    },
+    {
+        "id": 3090,
+        "relations": "p_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 172,
+        "target_name": "Dügâh/Nikriz Çesni"
+    },
+    {
+        "id": 3710,
+        "relations": "s_axis",
+        "source": 1,
+        "source_name": "Dügâh Perde",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 563,
+        "relations": "p_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 564,
+        "relations": "p_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 108,
+        "target_name": "Eviç/Uzzal Çesni"
+    },
+    {
+        "id": 565,
+        "relations": "p_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 44,
+        "target_name": "Eviç/Müstear Çesni"
+    },
+    {
+        "id": 566,
+        "relations": "p_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 45,
+        "target_name": "Eviç/Hicaz Çesni"
+    },
+    {
+        "id": 567,
+        "relations": "p_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 568,
+        "relations": "s_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 569,
+        "relations": "s_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 86,
+        "target_name": "Nim Hicaz/Hicaz Çesni"
+    },
+    {
+        "id": 570,
+        "relations": "s_axis",
+        "source": 42,
+        "source_name": "Eviç Perde",
+        "target": 79,
+        "target_name": "Segâh/Nikriz Çesni"
+    },
+    {
+        "id": 638,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 639,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 48,
+        "target_name": "Gerdaniye/Uşşak Çesni"
+    },
+    {
+        "id": 640,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 641,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 642,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 643,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 52,
+        "target_name": "Gerdaniye/Kürdi Çesni"
+    },
+    {
+        "id": 644,
+        "relations": "p_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 645,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 34,
+        "target_name": "Hüseyni/Nişabur Çesni"
+    },
+    {
+        "id": 646,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 647,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 648,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 649,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 651,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 652,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 653,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 654,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 655,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 656,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 3092,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 176,
+        "target_name": "Çargâh/Uzzal Çesni"
+    },
+    {
+        "id": 3093,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 178,
+        "target_name": "Hüseyni/Saba Çesni"
+    },
+    {
+        "id": 3723,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 3724,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 3946,
+        "relations": "s_axis",
+        "source": 46,
+        "source_name": "Gerdaniye Perde",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 836,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 837,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 838,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 34,
+        "target_name": "Hüseyni/Nişabur Çesni"
+    },
+    {
+        "id": 840,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 841,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 842,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 843,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 844,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 845,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 847,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 850,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 3094,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 178,
+        "target_name": "Hüseyni/Saba Çesni"
+    },
+    {
+        "id": 3095,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 3096,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 180,
+        "target_name": "Hüseyni/Uzzal Çesni"
+    },
+    {
+        "id": 3097,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 172,
+        "target_name": "Dügâh/Nikriz Çesni"
+    },
+    {
+        "id": 3098,
+        "relations": "s_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 173,
+        "target_name": "Buselik/Hicaz Çesni"
+    },
+    {
+        "id": 3749,
+        "relations": "p_axis",
+        "source": 29,
+        "source_name": "Hüseyni Perde",
+        "target": 188,
+        "target_name": "Hüseyni/Rast Çesni"
+    },
+    {
+        "id": 984,
+        "relations": "p_axis",
+        "source": 59,
+        "source_name": "Hüseyni Aşiran Perde",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 986,
+        "relations": "p_axis",
+        "source": 59,
+        "source_name": "Hüseyni Aşiran Perde",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 987,
+        "relations": "p_axis",
+        "source": 59,
+        "source_name": "Hüseyni Aşiran Perde",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 988,
+        "relations": "p_axis",
+        "source": 59,
+        "source_name": "Hüseyni Aşiran Perde",
+        "target": 62,
+        "target_name": "Hüseyni Aşiran/Hicaz Çesni"
+    },
+    {
+        "id": 989,
+        "relations": "p_axis",
+        "source": 59,
+        "source_name": "Hüseyni Aşiran Perde",
+        "target": 63,
+        "target_name": "Hüseyni Aşiran/Nişabur Çesni"
+    },
+    {
+        "id": 3099,
+        "relations": "p_axis",
+        "source": 59,
+        "source_name": "Hüseyni Aşiran Perde",
+        "target": 182,
+        "target_name": "Hüseyni Aşiran/Saba Çesni"
+    },
+    {
+        "id": 1080,
+        "relations": "p_axis",
+        "source": 64,
+        "source_name": "Irak Perde",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 1081,
+        "relations": "p_axis",
+        "source": 64,
+        "source_name": "Irak Perde",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 1082,
+        "relations": "p_axis",
+        "source": 64,
+        "source_name": "Irak Perde",
+        "target": 129,
+        "target_name": "Irak/Hicaz Çesni"
+    },
+    {
+        "id": 1083,
+        "relations": "p_axis",
+        "source": 64,
+        "source_name": "Irak Perde",
+        "target": 66,
+        "target_name": "Irak/Uzzal Çesni"
+    },
+    {
+        "id": 1180,
+        "relations": "p_axis",
+        "source": 69,
+        "source_name": "Kürdi Perde",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 1181,
+        "relations": "s_axis",
+        "source": 69,
+        "source_name": "Kürdi Perde",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 3100,
+        "relations": "p_axis",
+        "source": 69,
+        "source_name": "Kürdi Perde",
+        "target": 183,
+        "target_name": "Kürdi/Nikriz Çesni"
+    },
+    {
+        "id": 3838,
+        "relations": "s_axis",
+        "source": 69,
+        "source_name": "Kürdi Perde",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 3954,
+        "relations": "s_axis",
+        "source": 69,
+        "source_name": "Kürdi Perde",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 1221,
+        "relations": "p_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 123,
+        "target_name": "Muhayyer/Rast Çesni"
+    },
+    {
+        "id": 1222,
+        "relations": "p_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 1223,
+        "relations": "p_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 89,
+        "target_name": "Muhayyer/Buselik Çesni"
+    },
+    {
+        "id": 1224,
+        "relations": "p_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 1225,
+        "relations": "p_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 1226,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 1227,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 1228,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 1229,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 44,
+        "target_name": "Eviç/Müstear Çesni"
+    },
+    {
+        "id": 1230,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 1231,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 1232,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 1233,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 1234,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 1235,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 1236,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 3841,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 3842,
+        "relations": "s_axis",
+        "source": 85,
+        "source_name": "Muhayyer Perde",
+        "target": 188,
+        "target_name": "Hüseyni/Rast Çesni"
+    },
+    {
+        "id": 1332,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 1333,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 1334,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 1335,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 1336,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 1337,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 1338,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 1339,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 1340,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 1341,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 1342,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 1343,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 1344,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 1345,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 1347,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 1348,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 1349,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 1351,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 1352,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 1353,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 19,
+        "target_name": "Segâh/Müstear Çesni"
+    },
+    {
+        "id": 1354,
+        "relations": "s_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 21,
+        "target_name": "Buselik/Nişabur Çesni"
+    },
+    {
+        "id": 3101,
+        "relations": "p_axis",
+        "source": 22,
+        "source_name": "Nevâ Perde",
+        "target": 175,
+        "target_name": "Nevâ/Saba Çesni"
+    },
+    {
+        "id": 1610,
+        "relations": "p_axis",
+        "source": 71,
+        "source_name": "Nim Hicaz Perde",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 1611,
+        "relations": "p_axis",
+        "source": 71,
+        "source_name": "Nim Hicaz Perde",
+        "target": 86,
+        "target_name": "Nim Hicaz/Hicaz Çesni"
+    },
+    {
+        "id": 1612,
+        "relations": "s_axis",
+        "source": 71,
+        "source_name": "Nim Hicaz Perde",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 1613,
+        "relations": "s_axis",
+        "source": 71,
+        "source_name": "Nim Hicaz Perde",
+        "target": 66,
+        "target_name": "Irak/Uzzal Çesni"
+    },
+    {
+        "id": 1686,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 1687,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 1688,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 1690,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 1691,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 1692,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 16,
+        "target_name": "Rast/Kürdi Çesni"
+    },
+    {
+        "id": 1693,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 1694,
+        "relations": "p_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 1697,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 1698,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 56,
+        "target_name": "Yegâh/Hicaz Çesni"
+    },
+    {
+        "id": 1699,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 57,
+        "target_name": "Yegâh/Kürdi Çesni"
+    },
+    {
+        "id": 1700,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 125,
+        "target_name": "Yegâh/Uşşak Çesni"
+    },
+    {
+        "id": 1701,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 63,
+        "target_name": "Hüseyni Aşiran/Nişabur Çesni"
+    },
+    {
+        "id": 3103,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 182,
+        "target_name": "Hüseyni Aşiran/Saba Çesni"
+    },
+    {
+        "id": 3894,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 3895,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 3970,
+        "relations": "s_axis",
+        "source": 2,
+        "source_name": "Rast Perde",
+        "target": 74,
+        "target_name": "Yegâh/Nigar Çesni"
+    },
+    {
+        "id": 1949,
+        "relations": "p_axis",
+        "source": 17,
+        "source_name": "Segâh Perde",
+        "target": 19,
+        "target_name": "Segâh/Müstear Çesni"
+    },
+    {
+        "id": 1950,
+        "relations": "p_axis",
+        "source": 17,
+        "source_name": "Segâh Perde",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 1951,
+        "relations": "p_axis",
+        "source": 17,
+        "source_name": "Segâh Perde",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 1952,
+        "relations": "p_axis",
+        "source": 17,
+        "source_name": "Segâh Perde",
+        "target": 79,
+        "target_name": "Segâh/Nikriz Çesni"
+    },
+    {
+        "id": 1954,
+        "relations": "s_axis",
+        "source": 17,
+        "source_name": "Segâh Perde",
+        "target": 129,
+        "target_name": "Irak/Hicaz Çesni"
+    },
+    {
+        "id": 3104,
+        "relations": "s_axis",
+        "source": 155,
+        "source_name": "Tiz Buselik Perde",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 3105,
+        "relations": "s_axis",
+        "source": 155,
+        "source_name": "Tiz Buselik Perde",
+        "target": 180,
+        "target_name": "Hüseyni/Uzzal Çesni"
+    },
+    {
+        "id": 2038,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2039,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 2040,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2041,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2042,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 2043,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 2044,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 2045,
+        "relations": "s_axis",
+        "source": 161,
+        "source_name": "Tiz Nevâ Perde",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 2060,
+        "relations": "s_axis",
+        "source": 163,
+        "source_name": "Tiz Nim Hicaz Perde",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 2061,
+        "relations": "s_axis",
+        "source": 163,
+        "source_name": "Tiz Nim Hicaz Perde",
+        "target": 108,
+        "target_name": "Eviç/Uzzal Çesni"
+    },
+    {
+        "id": 2066,
+        "relations": "p_axis",
+        "source": 92,
+        "source_name": "Tiz Segâh Perde",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2069,
+        "relations": "s_axis",
+        "source": 92,
+        "source_name": "Tiz Segâh Perde",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 2070,
+        "relations": "s_axis",
+        "source": 92,
+        "source_name": "Tiz Segâh Perde",
+        "target": 45,
+        "target_name": "Eviç/Hicaz Çesni"
+    },
+    {
+        "id": 2071,
+        "relations": "s_axis",
+        "source": 92,
+        "source_name": "Tiz Segâh Perde",
+        "target": 84,
+        "target_name": "Dik Hisar/Nikriz Çesni"
+    },
+    {
+        "id": 2098,
+        "relations": "s_axis",
+        "source": 159,
+        "source_name": "Tiz Çargâh Perde",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 2099,
+        "relations": "s_axis",
+        "source": 159,
+        "source_name": "Tiz Çargâh Perde",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 2101,
+        "relations": "s_axis",
+        "source": 159,
+        "source_name": "Tiz Çargâh Perde",
+        "target": 48,
+        "target_name": "Gerdaniye/Uşşak Çesni"
+    },
+    {
+        "id": 2102,
+        "relations": "s_axis",
+        "source": 159,
+        "source_name": "Tiz Çargâh Perde",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 2103,
+        "relations": "s_axis",
+        "source": 159,
+        "source_name": "Tiz Çargâh Perde",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2104,
+        "relations": "s_axis",
+        "source": 159,
+        "source_name": "Tiz Çargâh Perde",
+        "target": 52,
+        "target_name": "Gerdaniye/Kürdi Çesni"
+    },
+    {
+        "id": 2119,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 74,
+        "target_name": "Yegâh/Nigar Çesni"
+    },
+    {
+        "id": 2120,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 2121,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 2122,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 56,
+        "target_name": "Yegâh/Hicaz Çesni"
+    },
+    {
+        "id": 2123,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 57,
+        "target_name": "Yegâh/Kürdi Çesni"
+    },
+    {
+        "id": 2124,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 125,
+        "target_name": "Yegâh/Uşşak Çesni"
+    },
+    {
+        "id": 2125,
+        "relations": "p_axis",
+        "source": 53,
+        "source_name": "Yegâh Perde",
+        "target": 94,
+        "target_name": "Yegâh/Nikriz Çesni"
+    },
+    {
+        "id": 2247,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 2248,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 2250,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 2251,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 2252,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 114,
+        "target_name": "Çargâh/Uşşak Çesni"
+    },
+    {
+        "id": 2253,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 2255,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 2256,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2257,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 7,
+        "target_name": "Dügâh/Sabâ Çesni"
+    },
+    {
+        "id": 2258,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 2259,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 2261,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2262,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 16,
+        "target_name": "Rast/Kürdi Çesni"
+    },
+    {
+        "id": 2263,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 3106,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 176,
+        "target_name": "Çargâh/Uzzal Çesni"
+    },
+    {
+        "id": 3107,
+        "relations": "p_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 177,
+        "target_name": "Çargâh/Hicaz Çesni"
+    },
+    {
+        "id": 4005,
+        "relations": "s_axis",
+        "source": 36,
+        "source_name": "Çargâh Perde",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 27,
+        "relations": "t_related",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 28,
+        "relations": "girift",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 29,
+        "relations": "girift",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 30,
+        "relations": "girift",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 31,
+        "relations": "girift",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 2630,
+        "relations": "t_related",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 2631,
+        "relations": "t_related",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 2812,
+        "relations": "p_axis",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 2813,
+        "relations": "s_axis",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 3942,
+        "relations": "s_axis",
+        "source": 72,
+        "source_name": "Acem/Nigâr Çeşni",
+        "target": 184,
+        "target_name": "SünbülePerde"
+    },
+    {
+        "id": 44,
+        "relations": "girift",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 45,
+        "relations": "girift",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 2627,
+        "relations": "t_related",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 2628,
+        "relations": "t_related",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 183,
+        "target_name": "Kürdi/Nikriz Çesni"
+    },
+    {
+        "id": 2629,
+        "relations": "t_related",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 2814,
+        "relations": "p_axis",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 2815,
+        "relations": "s_axis",
+        "source": 40,
+        "source_name": "Acem/Nikriz Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 101,
+        "relations": "t_related",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 102,
+        "relations": "girift",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 103,
+        "relations": "girift",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 104,
+        "relations": "girift",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 105,
+        "relations": "girift",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 2622,
+        "relations": "t_related",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 2623,
+        "relations": "t_related",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 2822,
+        "relations": "p_axis",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 95,
+        "target_name": "Acem AşiranPerde"
+    },
+    {
+        "id": 2823,
+        "relations": "s_axis",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3945,
+        "relations": "s_axis",
+        "source": 109,
+        "source_name": "Acem Aşiran/Nigar Çeşni",
+        "target": 69,
+        "target_name": "KürdiPerde"
+    },
+    {
+        "id": 115,
+        "relations": "t_related",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 117,
+        "relations": "girift",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2620,
+        "relations": "t_related",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 2621,
+        "relations": "t_related",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 183,
+        "target_name": "Kürdi/Nikriz Çesni"
+    },
+    {
+        "id": 2795,
+        "relations": "girift",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 2824,
+        "relations": "p_axis",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 95,
+        "target_name": "Acem AşiranPerde"
+    },
+    {
+        "id": 2825,
+        "relations": "s_axis",
+        "source": 96,
+        "source_name": "Acem Aşiran/Nikriz Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 2565,
+        "relations": "t_related",
+        "source": 173,
+        "source_name": "Buselik/Hicaz Çeşni",
+        "target": 62,
+        "target_name": "Hüseyni Aşiran/Hicaz Çesni"
+    },
+    {
+        "id": 2566,
+        "relations": "t_related",
+        "source": 173,
+        "source_name": "Buselik/Hicaz Çeşni",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 2776,
+        "relations": "girift",
+        "source": 173,
+        "source_name": "Buselik/Hicaz Çeşni",
+        "target": 172,
+        "target_name": "Dügâh/Nikriz Çesni"
+    },
+    {
+        "id": 2828,
+        "relations": "p_axis",
+        "source": 173,
+        "source_name": "Buselik/Hicaz Çeşni",
+        "target": 20,
+        "target_name": "BuselikPerde"
+    },
+    {
+        "id": 2829,
+        "relations": "s_axis",
+        "source": 173,
+        "source_name": "Buselik/Hicaz Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 149,
+        "relations": "t_related",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 151,
+        "relations": "girift",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 152,
+        "relations": "girift",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 153,
+        "relations": "girift",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 154,
+        "relations": "girift",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2567,
+        "relations": "t_related",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 2830,
+        "relations": "p_axis",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 20,
+        "target_name": "BuselikPerde"
+    },
+    {
+        "id": 2831,
+        "relations": "s_axis",
+        "source": 169,
+        "source_name": "Buselik/Kürdi Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2560,
+        "relations": "t_related",
+        "source": 21,
+        "source_name": "Buselik/Nişabur Çeşni",
+        "target": 63,
+        "target_name": "Hüseyni Aşiran/Nişabur Çesni"
+    },
+    {
+        "id": 2561,
+        "relations": "t_related",
+        "source": 21,
+        "source_name": "Buselik/Nişabur Çeşni",
+        "target": 34,
+        "target_name": "Hüseyni/Nişabur Çesni"
+    },
+    {
+        "id": 2738,
+        "relations": "girift",
+        "source": 21,
+        "source_name": "Buselik/Nişabur Çeşni",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 2792,
+        "relations": "girift",
+        "source": 21,
+        "source_name": "Buselik/Nişabur Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2832,
+        "relations": "p_axis",
+        "source": 21,
+        "source_name": "Buselik/Nişabur Çeşni",
+        "target": 20,
+        "target_name": "BuselikPerde"
+    },
+    {
+        "id": 2833,
+        "relations": "s_axis",
+        "source": 21,
+        "source_name": "Buselik/Nişabur Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 216,
+        "relations": "girift",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 217,
+        "relations": "girift",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 2689,
+        "relations": "t_related",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 2783,
+        "relations": "girift",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 2838,
+        "relations": "p_axis",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 82,
+        "target_name": "Dik HisarPerde"
+    },
+    {
+        "id": 2839,
+        "relations": "s_axis",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2840,
+        "relations": "s_axis",
+        "source": 116,
+        "source_name": "Dik Hisar/Hüzzam Çeşni",
+        "target": 92,
+        "target_name": "Tiz SegâhPerde"
+    },
+    {
+        "id": 231,
+        "relations": "girift",
+        "source": 84,
+        "source_name": "Dik Hisar/Nikriz Çeşni",
+        "target": 45,
+        "target_name": "Eviç/Hicaz Çesni"
+    },
+    {
+        "id": 2696,
+        "relations": "t_related",
+        "source": 84,
+        "source_name": "Dik Hisar/Nikriz Çeşni",
+        "target": 79,
+        "target_name": "Segâh/Nikriz Çesni"
+    },
+    {
+        "id": 2773,
+        "relations": "girift",
+        "source": 84,
+        "source_name": "Dik Hisar/Nikriz Çeşni",
+        "target": 108,
+        "target_name": "Eviç/Uzzal Çesni"
+    },
+    {
+        "id": 2841,
+        "relations": "p_axis",
+        "source": 84,
+        "source_name": "Dik Hisar/Nikriz Çeşni",
+        "target": 82,
+        "target_name": "Dik HisarPerde"
+    },
+    {
+        "id": 2842,
+        "relations": "s_axis",
+        "source": 84,
+        "source_name": "Dik Hisar/Nikriz Çeşni",
+        "target": 92,
+        "target_name": "Tiz SegâhPerde"
+    },
+    {
+        "id": 237,
+        "relations": "girift",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 238,
+        "relations": "girift",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 240,
+        "relations": "girift",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 48,
+        "target_name": "Gerdaniye/Uşşak Çesni"
+    },
+    {
+        "id": 2692,
+        "relations": "t_related",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2693,
+        "relations": "t_related",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2782,
+        "relations": "girift",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 2843,
+        "relations": "p_axis",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 82,
+        "target_name": "Dik HisarPerde"
+    },
+    {
+        "id": 2844,
+        "relations": "s_axis",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 2845,
+        "relations": "s_axis",
+        "source": 83,
+        "source_name": "Dik Hisar/Segâh Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 295,
+        "relations": "t_related",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 296,
+        "relations": "t_related",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 297,
+        "relations": "t_related",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 299,
+        "relations": "girift",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 300,
+        "relations": "girift",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 301,
+        "relations": "girift",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 2518,
+        "relations": "t_related",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 89,
+        "target_name": "Muhayyer/Buselik Çesni"
+    },
+    {
+        "id": 2519,
+        "relations": "t_related",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 2520,
+        "relations": "t_related",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2852,
+        "relations": "p_axis",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2853,
+        "relations": "s_axis",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 2854,
+        "relations": "s_axis",
+        "source": 8,
+        "source_name": "Dügâh/Buselik Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 329,
+        "relations": "t_related",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 330,
+        "relations": "t_related",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 62,
+        "target_name": "Hüseyni Aşiran/Hicaz Çesni"
+    },
+    {
+        "id": 331,
+        "relations": "girift",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 332,
+        "relations": "girift",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 2509,
+        "relations": "t_related",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 2510,
+        "relations": "t_related",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 56,
+        "target_name": "Yegâh/Hicaz Çesni"
+    },
+    {
+        "id": 2511,
+        "relations": "t_related",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 2765,
+        "relations": "girift",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 2855,
+        "relations": "p_axis",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2856,
+        "relations": "s_axis",
+        "source": 3,
+        "source_name": "Dügâh/Hicaz Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2524,
+        "relations": "t_related",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 2758,
+        "relations": "girift",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 2779,
+        "relations": "girift",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 2786,
+        "relations": "girift",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2788,
+        "relations": "girift",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2857,
+        "relations": "p_axis",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2858,
+        "relations": "s_axis",
+        "source": 10,
+        "source_name": "Dügâh/Hüseyni Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 381,
+        "relations": "t_related",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 382,
+        "relations": "t_related",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 383,
+        "relations": "girift",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 384,
+        "relations": "girift",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 385,
+        "relations": "girift",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 386,
+        "relations": "girift",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 2521,
+        "relations": "t_related",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 2522,
+        "relations": "t_related",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 57,
+        "target_name": "Yegâh/Kürdi Çesni"
+    },
+    {
+        "id": 2523,
+        "relations": "t_related",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 2859,
+        "relations": "p_axis",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2860,
+        "relations": "s_axis",
+        "source": 9,
+        "source_name": "Dügâh/Kürdi Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2530,
+        "relations": "t_related",
+        "source": 172,
+        "source_name": "Dügâh/Nikriz Çeşni",
+        "target": 94,
+        "target_name": "Yegâh/Nikriz Çesni"
+    },
+    {
+        "id": 2531,
+        "relations": "t_related",
+        "source": 172,
+        "source_name": "Dügâh/Nikriz Çeşni",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 2777,
+        "relations": "girift",
+        "source": 172,
+        "source_name": "Dügâh/Nikriz Çeşni",
+        "target": 173,
+        "target_name": "Buselik/Hicaz Çesni"
+    },
+    {
+        "id": 2861,
+        "relations": "p_axis",
+        "source": 172,
+        "source_name": "Dügâh/Nikriz Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2862,
+        "relations": "s_axis",
+        "source": 172,
+        "source_name": "Dügâh/Nikriz Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 443,
+        "relations": "t_related",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 448,
+        "relations": "girift",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 2527,
+        "relations": "t_related",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 123,
+        "target_name": "Muhayyer/Rast Çesni"
+    },
+    {
+        "id": 2528,
+        "relations": "t_related",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 2737,
+        "relations": "girift",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 21,
+        "target_name": "Buselik/Nişabur Çesni"
+    },
+    {
+        "id": 2866,
+        "relations": "p_axis",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2867,
+        "relations": "s_axis",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2868,
+        "relations": "s_axis",
+        "source": 111,
+        "source_name": "Dügâh/Rast Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2515,
+        "relations": "t_related",
+        "source": 7,
+        "source_name": "Dügâh/Sabâ Çeşni",
+        "target": 178,
+        "target_name": "Hüseyni/Saba Çesni"
+    },
+    {
+        "id": 2516,
+        "relations": "t_related",
+        "source": 7,
+        "source_name": "Dügâh/Sabâ Çeşni",
+        "target": 182,
+        "target_name": "Hüseyni Aşiran/Saba Çesni"
+    },
+    {
+        "id": 2517,
+        "relations": "t_related",
+        "source": 7,
+        "source_name": "Dügâh/Sabâ Çeşni",
+        "target": 175,
+        "target_name": "Nevâ/Saba Çesni"
+    },
+    {
+        "id": 2869,
+        "relations": "p_axis",
+        "source": 7,
+        "source_name": "Dügâh/Sabâ Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2870,
+        "relations": "s_axis",
+        "source": 7,
+        "source_name": "Dügâh/Sabâ Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 2525,
+        "relations": "t_related",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 180,
+        "target_name": "Hüseyni/Uzzal Çesni"
+    },
+    {
+        "id": 2526,
+        "relations": "t_related",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 2712,
+        "relations": "girift",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 2756,
+        "relations": "girift",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 2764,
+        "relations": "girift",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 2766,
+        "relations": "girift",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 2871,
+        "relations": "p_axis",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2872,
+        "relations": "s_axis",
+        "source": 11,
+        "source_name": "Dügâh/Uzzal Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 527,
+        "relations": "t_related",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 114,
+        "target_name": "Çargâh/Uşşak Çesni"
+    },
+    {
+        "id": 528,
+        "relations": "t_related",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 529,
+        "relations": "t_related",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 530,
+        "relations": "girift",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 531,
+        "relations": "girift",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 532,
+        "relations": "girift",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 533,
+        "relations": "girift",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 2512,
+        "relations": "t_related",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 2513,
+        "relations": "t_related",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 125,
+        "target_name": "Yegâh/Uşşak Çesni"
+    },
+    {
+        "id": 2514,
+        "relations": "t_related",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 2757,
+        "relations": "girift",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 2873,
+        "relations": "p_axis",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2874,
+        "relations": "s_axis",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 2875,
+        "relations": "s_axis",
+        "source": 4,
+        "source_name": "Dügâh/Uşşak Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 571,
+        "relations": "t_related",
+        "source": 45,
+        "source_name": "Eviç/Hicaz Çeşni",
+        "target": 86,
+        "target_name": "Nim Hicaz/Hicaz Çesni"
+    },
+    {
+        "id": 572,
+        "relations": "girift",
+        "source": 45,
+        "source_name": "Eviç/Hicaz Çeşni",
+        "target": 84,
+        "target_name": "Dik Hisar/Nikriz Çesni"
+    },
+    {
+        "id": 2652,
+        "relations": "t_related",
+        "source": 45,
+        "source_name": "Eviç/Hicaz Çeşni",
+        "target": 129,
+        "target_name": "Irak/Hicaz Çesni"
+    },
+    {
+        "id": 2714,
+        "relations": "girift",
+        "source": 45,
+        "source_name": "Eviç/Hicaz Çeşni",
+        "target": 108,
+        "target_name": "Eviç/Uzzal Çesni"
+    },
+    {
+        "id": 2876,
+        "relations": "p_axis",
+        "source": 45,
+        "source_name": "Eviç/Hicaz Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2877,
+        "relations": "s_axis",
+        "source": 45,
+        "source_name": "Eviç/Hicaz Çeşni",
+        "target": 92,
+        "target_name": "Tiz SegâhPerde"
+    },
+    {
+        "id": 583,
+        "relations": "t_related",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 584,
+        "relations": "girift",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 585,
+        "relations": "girift",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 2649,
+        "relations": "t_related",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 2784,
+        "relations": "girift",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 2804,
+        "relations": "girift",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2878,
+        "relations": "p_axis",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2879,
+        "relations": "s_axis",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2880,
+        "relations": "s_axis",
+        "source": 120,
+        "source_name": "Eviç/Hüzzam Çeşni",
+        "target": 163,
+        "target_name": "Tiz Nim HicazPerde"
+    },
+    {
+        "id": 2648,
+        "relations": "t_related",
+        "source": 44,
+        "source_name": "Eviç/Müstear Çeşni",
+        "target": 19,
+        "target_name": "Segâh/Müstear Çesni"
+    },
+    {
+        "id": 2881,
+        "relations": "p_axis",
+        "source": 44,
+        "source_name": "Eviç/Müstear Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2882,
+        "relations": "s_axis",
+        "source": 44,
+        "source_name": "Eviç/Müstear Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 612,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 613,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 614,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 615,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 2644,
+        "relations": "t_related",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 2645,
+        "relations": "t_related",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2646,
+        "relations": "t_related",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 2647,
+        "relations": "t_related",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2706,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 2748,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 2803,
+        "relations": "girift",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 2883,
+        "relations": "p_axis",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2884,
+        "relations": "s_axis",
+        "source": 43,
+        "source_name": "Eviç/Segâh Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2654,
+        "relations": "t_related",
+        "source": 108,
+        "source_name": "Eviç/Uzzal Çeşni",
+        "target": 66,
+        "target_name": "Irak/Uzzal Çesni"
+    },
+    {
+        "id": 2713,
+        "relations": "girift",
+        "source": 108,
+        "source_name": "Eviç/Uzzal Çeşni",
+        "target": 45,
+        "target_name": "Eviç/Hicaz Çesni"
+    },
+    {
+        "id": 2772,
+        "relations": "girift",
+        "source": 108,
+        "source_name": "Eviç/Uzzal Çeşni",
+        "target": 84,
+        "target_name": "Dik Hisar/Nikriz Çesni"
+    },
+    {
+        "id": 2885,
+        "relations": "p_axis",
+        "source": 108,
+        "source_name": "Eviç/Uzzal Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2886,
+        "relations": "s_axis",
+        "source": 108,
+        "source_name": "Eviç/Uzzal Çeşni",
+        "target": 163,
+        "target_name": "Tiz Nim HicazPerde"
+    },
+    {
+        "id": 657,
+        "relations": "t_related",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 658,
+        "relations": "girift",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 659,
+        "relations": "girift",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 660,
+        "relations": "girift",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 2494,
+        "relations": "t_related",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 2495,
+        "relations": "t_related",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2717,
+        "relations": "girift",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 34,
+        "target_name": "Hüseyni/Nişabur Çesni"
+    },
+    {
+        "id": 2887,
+        "relations": "p_axis",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2888,
+        "relations": "s_axis",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 3728,
+        "relations": "s_axis",
+        "source": 47,
+        "source_name": "Gerdaniye/Buselik Çeşni",
+        "target": 184,
+        "target_name": "SünbülePerde"
+    },
+    {
+        "id": 680,
+        "relations": "t_related",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 681,
+        "relations": "girift",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 682,
+        "relations": "girift",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 2498,
+        "relations": "t_related",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2499,
+        "relations": "t_related",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 177,
+        "target_name": "Çargâh/Hicaz Çesni"
+    },
+    {
+        "id": 2889,
+        "relations": "p_axis",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2890,
+        "relations": "s_axis",
+        "source": 49,
+        "source_name": "Gerdaniye/Hicaz Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 702,
+        "relations": "t_related",
+        "source": 52,
+        "source_name": "Gerdaniye/Kürdi Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 2505,
+        "relations": "t_related",
+        "source": 52,
+        "source_name": "Gerdaniye/Kürdi Çeşni",
+        "target": 16,
+        "target_name": "Rast/Kürdi Çesni"
+    },
+    {
+        "id": 2891,
+        "relations": "p_axis",
+        "source": 52,
+        "source_name": "Gerdaniye/Kürdi Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2892,
+        "relations": "s_axis",
+        "source": 52,
+        "source_name": "Gerdaniye/Kürdi Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 724,
+        "relations": "t_related",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 725,
+        "relations": "girift",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 727,
+        "relations": "girift",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 89,
+        "target_name": "Muhayyer/Buselik Çesni"
+    },
+    {
+        "id": 2503,
+        "relations": "t_related",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 2504,
+        "relations": "t_related",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 2723,
+        "relations": "girift",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 2893,
+        "relations": "p_axis",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2894,
+        "relations": "s_axis",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 2895,
+        "relations": "s_axis",
+        "source": 51,
+        "source_name": "Gerdaniye/Nigâr Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 748,
+        "relations": "t_related",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 749,
+        "relations": "girift",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 750,
+        "relations": "girift",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 2506,
+        "relations": "t_related",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 2507,
+        "relations": "t_related",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 2896,
+        "relations": "p_axis",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2897,
+        "relations": "s_axis",
+        "source": 87,
+        "source_name": "Gerdaniye/Nikriz Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 770,
+        "relations": "t_related",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 771,
+        "relations": "girift",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 772,
+        "relations": "girift",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 773,
+        "relations": "girift",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 774,
+        "relations": "girift",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2501,
+        "relations": "t_related",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2502,
+        "relations": "t_related",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 2898,
+        "relations": "p_axis",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2899,
+        "relations": "s_axis",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 3744,
+        "relations": "s_axis",
+        "source": 50,
+        "source_name": "Gerdaniye/Rast Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 794,
+        "relations": "t_related",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 795,
+        "relations": "girift",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 2496,
+        "relations": "t_related",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 2497,
+        "relations": "t_related",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 114,
+        "target_name": "Çargâh/Uşşak Çesni"
+    },
+    {
+        "id": 2900,
+        "relations": "p_axis",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2901,
+        "relations": "s_axis",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 184,
+        "target_name": "SünbülePerde"
+    },
+    {
+        "id": 2902,
+        "relations": "s_axis",
+        "source": 48,
+        "source_name": "Gerdaniye/Uşşak Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 851,
+        "relations": "t_related",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 89,
+        "target_name": "Muhayyer/Buselik Çesni"
+    },
+    {
+        "id": 852,
+        "relations": "t_related",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 853,
+        "relations": "girift",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 855,
+        "relations": "girift",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2606,
+        "relations": "t_related",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 2907,
+        "relations": "p_axis",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2908,
+        "relations": "s_axis",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 3763,
+        "relations": "s_axis",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 3764,
+        "relations": "s_axis",
+        "source": 31,
+        "source_name": "Hüseyni/Buselik Çeşni",
+        "target": 155,
+        "target_name": "Tiz BuselikPerde"
+    },
+    {
+        "id": 874,
+        "relations": "t_related",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 876,
+        "relations": "girift",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 2607,
+        "relations": "t_related",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 62,
+        "target_name": "Hüseyni Aşiran/Hicaz Çesni"
+    },
+    {
+        "id": 2608,
+        "relations": "t_related",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 2609,
+        "relations": "t_related",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 173,
+        "target_name": "Buselik/Hicaz Çesni"
+    },
+    {
+        "id": 2721,
+        "relations": "girift",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 180,
+        "target_name": "Hüseyni/Uzzal Çesni"
+    },
+    {
+        "id": 2909,
+        "relations": "p_axis",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2910,
+        "relations": "s_axis",
+        "source": 32,
+        "source_name": "Hüseyni/Hicaz Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2615,
+        "relations": "t_related",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 2724,
+        "relations": "girift",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2733,
+        "relations": "girift",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 2741,
+        "relations": "girift",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 2747,
+        "relations": "girift",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2911,
+        "relations": "p_axis",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2912,
+        "relations": "s_axis",
+        "source": 179,
+        "source_name": "Hüseyni/Hüseyni Çeşni",
+        "target": 155,
+        "target_name": "Tiz BuselikPerde"
+    },
+    {
+        "id": 896,
+        "relations": "t_related",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 897,
+        "relations": "t_related",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 898,
+        "relations": "girift",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 899,
+        "relations": "girift",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 900,
+        "relations": "girift",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 901,
+        "relations": "girift",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2611,
+        "relations": "t_related",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 2612,
+        "relations": "t_related",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 2913,
+        "relations": "p_axis",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2914,
+        "relations": "s_axis",
+        "source": 33,
+        "source_name": "Hüseyni/Kürdi Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2613,
+        "relations": "t_related",
+        "source": 34,
+        "source_name": "Hüseyni/Nişabur Çeşni",
+        "target": 63,
+        "target_name": "Hüseyni Aşiran/Nişabur Çesni"
+    },
+    {
+        "id": 2614,
+        "relations": "t_related",
+        "source": 34,
+        "source_name": "Hüseyni/Nişabur Çeşni",
+        "target": 21,
+        "target_name": "Buselik/Nişabur Çesni"
+    },
+    {
+        "id": 2718,
+        "relations": "girift",
+        "source": 34,
+        "source_name": "Hüseyni/Nişabur Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2808,
+        "relations": "girift",
+        "source": 34,
+        "source_name": "Hüseyni/Nişabur Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 2915,
+        "relations": "p_axis",
+        "source": 34,
+        "source_name": "Hüseyni/Nişabur Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2916,
+        "relations": "s_axis",
+        "source": 34,
+        "source_name": "Hüseyni/Nişabur Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 3794,
+        "relations": "p_axis",
+        "source": 188,
+        "source_name": "Hüseyni/Rast Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 3795,
+        "relations": "s_axis",
+        "source": 188,
+        "source_name": "Hüseyni/Rast Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 3796,
+        "relations": "s_axis",
+        "source": 188,
+        "source_name": "Hüseyni/Rast Çeşni",
+        "target": 155,
+        "target_name": "Tiz BuselikPerde"
+    },
+    {
+        "id": 2616,
+        "relations": "t_related",
+        "source": 178,
+        "source_name": "Hüseyni/Saba Çeşni",
+        "target": 182,
+        "target_name": "Hüseyni Aşiran/Saba Çesni"
+    },
+    {
+        "id": 2617,
+        "relations": "t_related",
+        "source": 178,
+        "source_name": "Hüseyni/Saba Çeşni",
+        "target": 7,
+        "target_name": "Dügâh/Sabâ Çesni"
+    },
+    {
+        "id": 2919,
+        "relations": "p_axis",
+        "source": 178,
+        "source_name": "Hüseyni/Saba Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2920,
+        "relations": "s_axis",
+        "source": 178,
+        "source_name": "Hüseyni/Saba Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2610,
+        "relations": "t_related",
+        "source": 180,
+        "source_name": "Hüseyni/Uzzal Çeşni",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 2722,
+        "relations": "girift",
+        "source": 180,
+        "source_name": "Hüseyni/Uzzal Çeşni",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 2921,
+        "relations": "p_axis",
+        "source": 180,
+        "source_name": "Hüseyni/Uzzal Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2922,
+        "relations": "s_axis",
+        "source": 180,
+        "source_name": "Hüseyni/Uzzal Çeşni",
+        "target": 155,
+        "target_name": "Tiz BuselikPerde"
+    },
+    {
+        "id": 960,
+        "relations": "t_related",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 962,
+        "relations": "girift",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 963,
+        "relations": "girift",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 964,
+        "relations": "girift",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 965,
+        "relations": "girift",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 2603,
+        "relations": "t_related",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 2604,
+        "relations": "t_related",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 2742,
+        "relations": "girift",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 2923,
+        "relations": "p_axis",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 2924,
+        "relations": "s_axis",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 3811,
+        "relations": "s_axis",
+        "source": 30,
+        "source_name": "Hüseyni/Uşşak Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 990,
+        "relations": "girift",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 74,
+        "target_name": "Yegâh/Nigar Çesni"
+    },
+    {
+        "id": 992,
+        "relations": "girift",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 2597,
+        "relations": "t_related",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 2598,
+        "relations": "t_related",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 2925,
+        "relations": "p_axis",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 59,
+        "target_name": "Hüseyni AşiranPerde"
+    },
+    {
+        "id": 2926,
+        "relations": "s_axis",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 20,
+        "target_name": "BuselikPerde"
+    },
+    {
+        "id": 3822,
+        "relations": "s_axis",
+        "source": 168,
+        "source_name": "Hüseyni Aşiran/Buselik Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 1002,
+        "relations": "t_related",
+        "source": 62,
+        "source_name": "Hüseyni Aşiran/Hicaz Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 1003,
+        "relations": "girift",
+        "source": 62,
+        "source_name": "Hüseyni Aşiran/Hicaz Çeşni",
+        "target": 94,
+        "target_name": "Yegâh/Nikriz Çesni"
+    },
+    {
+        "id": 2594,
+        "relations": "t_related",
+        "source": 62,
+        "source_name": "Hüseyni Aşiran/Hicaz Çeşni",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 2927,
+        "relations": "p_axis",
+        "source": 62,
+        "source_name": "Hüseyni Aşiran/Hicaz Çeşni",
+        "target": 59,
+        "target_name": "Hüseyni AşiranPerde"
+    },
+    {
+        "id": 2928,
+        "relations": "s_axis",
+        "source": 62,
+        "source_name": "Hüseyni Aşiran/Hicaz Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 1018,
+        "relations": "t_related",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 1019,
+        "relations": "girift",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 1020,
+        "relations": "girift",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 1021,
+        "relations": "girift",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 2590,
+        "relations": "t_related",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 2591,
+        "relations": "t_related",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 2929,
+        "relations": "p_axis",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 59,
+        "target_name": "Hüseyni AşiranPerde"
+    },
+    {
+        "id": 2930,
+        "relations": "s_axis",
+        "source": 60,
+        "source_name": "Hüseyni Aşiran/Kürdi Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2595,
+        "relations": "t_related",
+        "source": 63,
+        "source_name": "Hüseyni Aşiran/Nişabur Çeşni",
+        "target": 34,
+        "target_name": "Hüseyni/Nişabur Çesni"
+    },
+    {
+        "id": 2596,
+        "relations": "t_related",
+        "source": 63,
+        "source_name": "Hüseyni Aşiran/Nişabur Çeşni",
+        "target": 21,
+        "target_name": "Buselik/Nişabur Çesni"
+    },
+    {
+        "id": 2931,
+        "relations": "p_axis",
+        "source": 63,
+        "source_name": "Hüseyni Aşiran/Nişabur Çeşni",
+        "target": 59,
+        "target_name": "Hüseyni AşiranPerde"
+    },
+    {
+        "id": 2932,
+        "relations": "s_axis",
+        "source": 63,
+        "source_name": "Hüseyni Aşiran/Nişabur Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 2601,
+        "relations": "t_related",
+        "source": 182,
+        "source_name": "Hüseyni Aşiran/Saba Çeşni",
+        "target": 178,
+        "target_name": "Hüseyni/Saba Çesni"
+    },
+    {
+        "id": 2602,
+        "relations": "t_related",
+        "source": 182,
+        "source_name": "Hüseyni Aşiran/Saba Çeşni",
+        "target": 7,
+        "target_name": "Dügâh/Sabâ Çesni"
+    },
+    {
+        "id": 2935,
+        "relations": "p_axis",
+        "source": 182,
+        "source_name": "Hüseyni Aşiran/Saba Çeşni",
+        "target": 59,
+        "target_name": "Hüseyni AşiranPerde"
+    },
+    {
+        "id": 2936,
+        "relations": "s_axis",
+        "source": 182,
+        "source_name": "Hüseyni Aşiran/Saba Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 1062,
+        "relations": "t_related",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 1063,
+        "relations": "girift",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 1064,
+        "relations": "girift",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 1065,
+        "relations": "girift",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2592,
+        "relations": "t_related",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 2937,
+        "relations": "p_axis",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 59,
+        "target_name": "Hüseyni AşiranPerde"
+    },
+    {
+        "id": 2938,
+        "relations": "s_axis",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 3837,
+        "relations": "s_axis",
+        "source": 61,
+        "source_name": "Hüseyni Aşiran/Uşşak Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 2642,
+        "relations": "t_related",
+        "source": 129,
+        "source_name": "Irak/Hicaz Çeşni",
+        "target": 45,
+        "target_name": "Eviç/Hicaz Çesni"
+    },
+    {
+        "id": 2643,
+        "relations": "t_related",
+        "source": 129,
+        "source_name": "Irak/Hicaz Çeşni",
+        "target": 86,
+        "target_name": "Nim Hicaz/Hicaz Çesni"
+    },
+    {
+        "id": 2739,
+        "relations": "girift",
+        "source": 129,
+        "source_name": "Irak/Hicaz Çeşni",
+        "target": 66,
+        "target_name": "Irak/Uzzal Çesni"
+    },
+    {
+        "id": 2939,
+        "relations": "p_axis",
+        "source": 129,
+        "source_name": "Irak/Hicaz Çeşni",
+        "target": 64,
+        "target_name": "IrakPerde"
+    },
+    {
+        "id": 2940,
+        "relations": "s_axis",
+        "source": 129,
+        "source_name": "Irak/Hicaz Çeşni",
+        "target": 17,
+        "target_name": "SegâhPerde"
+    },
+    {
+        "id": 1094,
+        "relations": "girift",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 1095,
+        "relations": "girift",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 2639,
+        "relations": "t_related",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 2640,
+        "relations": "t_related",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 2711,
+        "relations": "girift",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 2750,
+        "relations": "girift",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 2941,
+        "relations": "p_axis",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 64,
+        "target_name": "IrakPerde"
+    },
+    {
+        "id": 2942,
+        "relations": "s_axis",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2943,
+        "relations": "s_axis",
+        "source": 170,
+        "source_name": "Irak/Hüzzam Çeşni",
+        "target": 71,
+        "target_name": "Nim HicazPerde"
+    },
+    {
+        "id": 1111,
+        "relations": "girift",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 1112,
+        "relations": "girift",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 1113,
+        "relations": "girift",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 1114,
+        "relations": "girift",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 2636,
+        "relations": "t_related",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2637,
+        "relations": "t_related",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 2638,
+        "relations": "t_related",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2749,
+        "relations": "girift",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 2944,
+        "relations": "p_axis",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 64,
+        "target_name": "IrakPerde"
+    },
+    {
+        "id": 2945,
+        "relations": "s_axis",
+        "source": 65,
+        "source_name": "Irak/Segâh Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2641,
+        "relations": "t_related",
+        "source": 66,
+        "source_name": "Irak/Uzzal Çeşni",
+        "target": 108,
+        "target_name": "Eviç/Uzzal Çesni"
+    },
+    {
+        "id": 2740,
+        "relations": "girift",
+        "source": 66,
+        "source_name": "Irak/Uzzal Çeşni",
+        "target": 129,
+        "target_name": "Irak/Hicaz Çesni"
+    },
+    {
+        "id": 2946,
+        "relations": "p_axis",
+        "source": 66,
+        "source_name": "Irak/Uzzal Çeşni",
+        "target": 64,
+        "target_name": "IrakPerde"
+    },
+    {
+        "id": 2947,
+        "relations": "s_axis",
+        "source": 66,
+        "source_name": "Irak/Uzzal Çeşni",
+        "target": 71,
+        "target_name": "Nim HicazPerde"
+    },
+    {
+        "id": 1182,
+        "relations": "t_related",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 1183,
+        "relations": "girift",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 1184,
+        "relations": "girift",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 1185,
+        "relations": "girift",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 1186,
+        "relations": "girift",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 2672,
+        "relations": "t_related",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 2955,
+        "relations": "p_axis",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 69,
+        "target_name": "KürdiPerde"
+    },
+    {
+        "id": 2956,
+        "relations": "s_axis",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 3955,
+        "relations": "s_axis",
+        "source": 137,
+        "source_name": "Kürdi/Nigar Çeşni",
+        "target": 138,
+        "target_name": "Nim HisarPerde"
+    },
+    {
+        "id": 2674,
+        "relations": "t_related",
+        "source": 183,
+        "source_name": "Kürdi/Nikriz Çeşni",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 2675,
+        "relations": "t_related",
+        "source": 183,
+        "source_name": "Kürdi/Nikriz Çeşni",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 2727,
+        "relations": "girift",
+        "source": 183,
+        "source_name": "Kürdi/Nikriz Çeşni",
+        "target": 177,
+        "target_name": "Çargâh/Hicaz Çesni"
+    },
+    {
+        "id": 2730,
+        "relations": "girift",
+        "source": 183,
+        "source_name": "Kürdi/Nikriz Çeşni",
+        "target": 176,
+        "target_name": "Çargâh/Uzzal Çesni"
+    },
+    {
+        "id": 2957,
+        "relations": "p_axis",
+        "source": 183,
+        "source_name": "Kürdi/Nikriz Çeşni",
+        "target": 69,
+        "target_name": "KürdiPerde"
+    },
+    {
+        "id": 2958,
+        "relations": "s_axis",
+        "source": 183,
+        "source_name": "Kürdi/Nikriz Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 1237,
+        "relations": "t_related",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 1239,
+        "relations": "girift",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2534,
+        "relations": "t_related",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 2535,
+        "relations": "t_related",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2965,
+        "relations": "p_axis",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2966,
+        "relations": "s_axis",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 185,
+        "target_name": "Tiz HüseyniPerde"
+    },
+    {
+        "id": 3848,
+        "relations": "s_axis",
+        "source": 89,
+        "source_name": "Muhayyer/Buselik Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 1256,
+        "relations": "t_related",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 1257,
+        "relations": "girift",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 1258,
+        "relations": "girift",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 2532,
+        "relations": "t_related",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 2533,
+        "relations": "t_related",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 2967,
+        "relations": "p_axis",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2968,
+        "relations": "s_axis",
+        "source": 88,
+        "source_name": "Muhayyer/Hicaz Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 1274,
+        "relations": "t_related",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 1275,
+        "relations": "girift",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 1276,
+        "relations": "girift",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2538,
+        "relations": "t_related",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 2539,
+        "relations": "t_related",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 2969,
+        "relations": "p_axis",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2970,
+        "relations": "s_axis",
+        "source": 91,
+        "source_name": "Muhayyer/Kürdi Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 2540,
+        "relations": "t_related",
+        "source": 123,
+        "source_name": "Muhayyer/Rast Çeşni",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 2541,
+        "relations": "t_related",
+        "source": 123,
+        "source_name": "Muhayyer/Rast Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 2971,
+        "relations": "p_axis",
+        "source": 123,
+        "source_name": "Muhayyer/Rast Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2972,
+        "relations": "s_axis",
+        "source": 123,
+        "source_name": "Muhayyer/Rast Çeşni",
+        "target": 185,
+        "target_name": "Tiz HüseyniPerde"
+    },
+    {
+        "id": 3861,
+        "relations": "s_axis",
+        "source": 123,
+        "source_name": "Muhayyer/Rast Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 1312,
+        "relations": "t_related",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 1313,
+        "relations": "girift",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 1314,
+        "relations": "girift",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 1315,
+        "relations": "girift",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2536,
+        "relations": "t_related",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 2537,
+        "relations": "t_related",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 2973,
+        "relations": "p_axis",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2974,
+        "relations": "s_axis",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 3866,
+        "relations": "s_axis",
+        "source": 90,
+        "source_name": "Muhayyer/Uşşak Çeşni",
+        "target": 159,
+        "target_name": "Tiz ÇargâhPerde"
+    },
+    {
+        "id": 1355,
+        "relations": "t_related",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 89,
+        "target_name": "Muhayyer/Buselik Çesni"
+    },
+    {
+        "id": 1356,
+        "relations": "t_related",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 1357,
+        "relations": "girift",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 1358,
+        "relations": "girift",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 1359,
+        "relations": "girift",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 1360,
+        "relations": "girift",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 2436,
+        "relations": "t_related",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 2437,
+        "relations": "t_related",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 2438,
+        "relations": "t_related",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2793,
+        "relations": "girift",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 21,
+        "target_name": "Buselik/Nişabur Çesni"
+    },
+    {
+        "id": 2975,
+        "relations": "p_axis",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2976,
+        "relations": "s_axis",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 3873,
+        "relations": "s_axis",
+        "source": 23,
+        "source_name": "Nevâ/Buselik Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 1387,
+        "relations": "t_related",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 1388,
+        "relations": "t_related",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 1389,
+        "relations": "girift",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 1390,
+        "relations": "girift",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 2439,
+        "relations": "t_related",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 56,
+        "target_name": "Yegâh/Hicaz Çesni"
+    },
+    {
+        "id": 2441,
+        "relations": "t_related",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2442,
+        "relations": "t_related",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 88,
+        "target_name": "Muhayyer/Hicaz Çesni"
+    },
+    {
+        "id": 2720,
+        "relations": "girift",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 2977,
+        "relations": "p_axis",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2978,
+        "relations": "s_axis",
+        "source": 24,
+        "source_name": "Nevâ/Hicaz Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 1419,
+        "relations": "t_related",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 52,
+        "target_name": "Gerdaniye/Kürdi Çesni"
+    },
+    {
+        "id": 1420,
+        "relations": "t_related",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 1421,
+        "relations": "girift",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 1422,
+        "relations": "girift",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 2443,
+        "relations": "t_related",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 57,
+        "target_name": "Yegâh/Kürdi Çesni"
+    },
+    {
+        "id": 2444,
+        "relations": "t_related",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 16,
+        "target_name": "Rast/Kürdi Çesni"
+    },
+    {
+        "id": 2445,
+        "relations": "t_related",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 91,
+        "target_name": "Muhayyer/Kürdi Çesni"
+    },
+    {
+        "id": 2979,
+        "relations": "p_axis",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2980,
+        "relations": "s_axis",
+        "source": 101,
+        "source_name": "Nevâ/Kürdi Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 1453,
+        "relations": "t_related",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 1454,
+        "relations": "girift",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 31,
+        "target_name": "Hüseyni/Buselik Çesni"
+    },
+    {
+        "id": 2446,
+        "relations": "t_related",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 74,
+        "target_name": "Yegâh/Nigar Çesni"
+    },
+    {
+        "id": 2447,
+        "relations": "t_related",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2981,
+        "relations": "p_axis",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2982,
+        "relations": "s_axis",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 3968,
+        "relations": "s_axis",
+        "source": 28,
+        "source_name": "Nevâ/Nigar Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 1483,
+        "relations": "t_related",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 1485,
+        "relations": "girift",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 32,
+        "target_name": "Hüseyni/Hicaz Çesni"
+    },
+    {
+        "id": 2448,
+        "relations": "t_related",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 94,
+        "target_name": "Yegâh/Nikriz Çesni"
+    },
+    {
+        "id": 2449,
+        "relations": "t_related",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 172,
+        "target_name": "Dügâh/Nikriz Çesni"
+    },
+    {
+        "id": 2450,
+        "relations": "t_related",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 2983,
+        "relations": "p_axis",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2984,
+        "relations": "s_axis",
+        "source": 80,
+        "source_name": "Nevâ/Nikriz Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 1513,
+        "relations": "t_related",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 1514,
+        "relations": "t_related",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 1516,
+        "relations": "girift",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 122,
+        "target_name": "Nim Hicaz/Segâh Çesni"
+    },
+    {
+        "id": 1517,
+        "relations": "girift",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 1518,
+        "relations": "girift",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2451,
+        "relations": "t_related",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 2452,
+        "relations": "t_related",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2453,
+        "relations": "t_related",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 123,
+        "target_name": "Muhayyer/Rast Çesni"
+    },
+    {
+        "id": 2734,
+        "relations": "girift",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 179,
+        "target_name": "Hüseyni/Hüseyni Çesni"
+    },
+    {
+        "id": 2809,
+        "relations": "girift",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 34,
+        "target_name": "Hüseyni/Nişabur Çesni"
+    },
+    {
+        "id": 2985,
+        "relations": "p_axis",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2986,
+        "relations": "s_axis",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 3884,
+        "relations": "s_axis",
+        "source": 26,
+        "source_name": "Nevâ/Rast Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 2458,
+        "relations": "t_related",
+        "source": 175,
+        "source_name": "Nevâ/Saba Çeşni",
+        "target": 7,
+        "target_name": "Dügâh/Sabâ Çesni"
+    },
+    {
+        "id": 2987,
+        "relations": "p_axis",
+        "source": 175,
+        "source_name": "Nevâ/Saba Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2988,
+        "relations": "s_axis",
+        "source": 175,
+        "source_name": "Nevâ/Saba Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 1547,
+        "relations": "t_related",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 2454,
+        "relations": "t_related",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 2705,
+        "relations": "girift",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2719,
+        "relations": "girift",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 2746,
+        "relations": "girift",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 2760,
+        "relations": "girift",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 2785,
+        "relations": "girift",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 2989,
+        "relations": "p_axis",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2990,
+        "relations": "s_axis",
+        "source": 25,
+        "source_name": "Nevâ/Uzzal Çeşni",
+        "target": 85,
+        "target_name": "MuhayyerPerde"
+    },
+    {
+        "id": 1575,
+        "relations": "t_related",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 48,
+        "target_name": "Gerdaniye/Uşşak Çesni"
+    },
+    {
+        "id": 1576,
+        "relations": "t_related",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 1577,
+        "relations": "girift",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 1578,
+        "relations": "girift",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 1579,
+        "relations": "girift",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 2455,
+        "relations": "t_related",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 125,
+        "target_name": "Yegâh/Uşşak Çesni"
+    },
+    {
+        "id": 2456,
+        "relations": "t_related",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 2457,
+        "relations": "t_related",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 2991,
+        "relations": "p_axis",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2992,
+        "relations": "s_axis",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 3892,
+        "relations": "s_axis",
+        "source": 27,
+        "source_name": "Nevâ/Uşşak Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 1614,
+        "relations": "t_related",
+        "source": 86,
+        "source_name": "Nim Hicaz/Hicaz Çeşni",
+        "target": 45,
+        "target_name": "Eviç/Hicaz Çesni"
+    },
+    {
+        "id": 1615,
+        "relations": "girift",
+        "source": 86,
+        "source_name": "Nim Hicaz/Hicaz Çeşni",
+        "target": 79,
+        "target_name": "Segâh/Nikriz Çesni"
+    },
+    {
+        "id": 2657,
+        "relations": "t_related",
+        "source": 86,
+        "source_name": "Nim Hicaz/Hicaz Çeşni",
+        "target": 129,
+        "target_name": "Irak/Hicaz Çesni"
+    },
+    {
+        "id": 2993,
+        "relations": "p_axis",
+        "source": 86,
+        "source_name": "Nim Hicaz/Hicaz Çeşni",
+        "target": 71,
+        "target_name": "Nim HicazPerde"
+    },
+    {
+        "id": 2994,
+        "relations": "s_axis",
+        "source": 86,
+        "source_name": "Nim Hicaz/Hicaz Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 1639,
+        "relations": "girift",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 1641,
+        "relations": "girift",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 1642,
+        "relations": "girift",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 30,
+        "target_name": "Hüseyni/Uşşak Çesni"
+    },
+    {
+        "id": 2658,
+        "relations": "t_related",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 2660,
+        "relations": "t_related",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2755,
+        "relations": "girift",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 3000,
+        "relations": "p_axis",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 71,
+        "target_name": "Nim HicazPerde"
+    },
+    {
+        "id": 3001,
+        "relations": "s_axis",
+        "source": 122,
+        "source_name": "Nim Hicaz/Segâh Çeşni",
+        "target": 29,
+        "target_name": "HüseyniPerde"
+    },
+    {
+        "id": 1702,
+        "relations": "t_related",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 1703,
+        "relations": "girift",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 1704,
+        "relations": "girift",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 1705,
+        "relations": "girift",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 1706,
+        "relations": "girift",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 2477,
+        "relations": "t_related",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2478,
+        "relations": "t_related",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 54,
+        "target_name": "Yegâh/Buselik Çesni"
+    },
+    {
+        "id": 2479,
+        "relations": "t_related",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 103,
+        "target_name": "Çargâh/Buselik Çesni"
+    },
+    {
+        "id": 3010,
+        "relations": "p_axis",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3011,
+        "relations": "s_axis",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 69,
+        "target_name": "KürdiPerde"
+    },
+    {
+        "id": 3012,
+        "relations": "s_axis",
+        "source": 6,
+        "source_name": "Rast/Buselik Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 1732,
+        "relations": "t_related",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 56,
+        "target_name": "Yegâh/Hicaz Çesni"
+    },
+    {
+        "id": 1734,
+        "relations": "girift",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 2489,
+        "relations": "t_related",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 2490,
+        "relations": "t_related",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 2491,
+        "relations": "t_related",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 177,
+        "target_name": "Çargâh/Hicaz Çesni"
+    },
+    {
+        "id": 2703,
+        "relations": "girift",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 2790,
+        "relations": "girift",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 3013,
+        "relations": "p_axis",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3014,
+        "relations": "s_axis",
+        "source": 78,
+        "source_name": "Rast/Hicaz Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 1756,
+        "relations": "t_related",
+        "source": 16,
+        "source_name": "Rast/Kürdi Çeşni",
+        "target": 57,
+        "target_name": "Yegâh/Kürdi Çesni"
+    },
+    {
+        "id": 2487,
+        "relations": "t_related",
+        "source": 16,
+        "source_name": "Rast/Kürdi Çeşni",
+        "target": 52,
+        "target_name": "Gerdaniye/Kürdi Çesni"
+    },
+    {
+        "id": 2488,
+        "relations": "t_related",
+        "source": 16,
+        "source_name": "Rast/Kürdi Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 3015,
+        "relations": "p_axis",
+        "source": 16,
+        "source_name": "Rast/Kürdi Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3016,
+        "relations": "s_axis",
+        "source": 16,
+        "source_name": "Rast/Kürdi Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 1778,
+        "relations": "t_related",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 1779,
+        "relations": "girift",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 1781,
+        "relations": "girift",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 1782,
+        "relations": "girift",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 2483,
+        "relations": "t_related",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2484,
+        "relations": "t_related",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 74,
+        "target_name": "Yegâh/Nigar Çesni"
+    },
+    {
+        "id": 2485,
+        "relations": "t_related",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 37,
+        "target_name": "Çargâh/Nigar Çesni"
+    },
+    {
+        "id": 3017,
+        "relations": "p_axis",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3018,
+        "relations": "s_axis",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 3985,
+        "relations": "s_axis",
+        "source": 14,
+        "source_name": "Rast/Nigar Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 1806,
+        "relations": "t_related",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 1807,
+        "relations": "girift",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 1808,
+        "relations": "girift",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 2480,
+        "relations": "t_related",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 2481,
+        "relations": "t_related",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 94,
+        "target_name": "Yegâh/Nikriz Çesni"
+    },
+    {
+        "id": 2482,
+        "relations": "t_related",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 2767,
+        "relations": "girift",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 11,
+        "target_name": "Dügâh/Uzzal Çesni"
+    },
+    {
+        "id": 3019,
+        "relations": "p_axis",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3021,
+        "relations": "s_axis",
+        "source": 12,
+        "source_name": "Rast/Nikriz Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 1865,
+        "relations": "t_related",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 1866,
+        "relations": "t_related",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 1867,
+        "relations": "t_related",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 55,
+        "target_name": "Yegâh/Rast Çesni"
+    },
+    {
+        "id": 1868,
+        "relations": "girift",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 1869,
+        "relations": "girift",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 1870,
+        "relations": "girift",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 1871,
+        "relations": "girift",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2476,
+        "relations": "t_related",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 2787,
+        "relations": "girift",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 3024,
+        "relations": "p_axis",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3025,
+        "relations": "s_axis",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3026,
+        "relations": "s_axis",
+        "source": 5,
+        "source_name": "Rast/Rast Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 1899,
+        "relations": "t_related",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 2486,
+        "relations": "t_related",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 176,
+        "target_name": "Çargâh/Uzzal Çesni"
+    },
+    {
+        "id": 2762,
+        "relations": "girift",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2771,
+        "relations": "girift",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 2794,
+        "relations": "girift",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 3027,
+        "relations": "p_axis",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3028,
+        "relations": "s_axis",
+        "source": 15,
+        "source_name": "Rast/Uzzal Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 1923,
+        "relations": "t_related",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 114,
+        "target_name": "Çargâh/Uşşak Çesni"
+    },
+    {
+        "id": 1924,
+        "relations": "t_related",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 125,
+        "target_name": "Yegâh/Uşşak Çesni"
+    },
+    {
+        "id": 2492,
+        "relations": "t_related",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 48,
+        "target_name": "Gerdaniye/Uşşak Çesni"
+    },
+    {
+        "id": 2493,
+        "relations": "t_related",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 3029,
+        "relations": "p_axis",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3030,
+        "relations": "s_axis",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3915,
+        "relations": "s_axis",
+        "source": 112,
+        "source_name": "Rast/Uşşak Çeşni",
+        "target": 69,
+        "target_name": "KürdiPerde"
+    },
+    {
+        "id": 1956,
+        "relations": "t_related",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 120,
+        "target_name": "Eviç/Hüzzam Çesni"
+    },
+    {
+        "id": 1958,
+        "relations": "girift",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 100,
+        "target_name": "Çargâh/Nikriz Çesni"
+    },
+    {
+        "id": 1959,
+        "relations": "girift",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 2549,
+        "relations": "t_related",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 170,
+        "target_name": "Irak/Hüzzam Çesni"
+    },
+    {
+        "id": 2550,
+        "relations": "t_related",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 116,
+        "target_name": "Dik Hisar/Hüzzam Çesni"
+    },
+    {
+        "id": 2704,
+        "relations": "girift",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2759,
+        "relations": "girift",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 2770,
+        "relations": "girift",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 2802,
+        "relations": "girift",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 3031,
+        "relations": "p_axis",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 17,
+        "target_name": "SegâhPerde"
+    },
+    {
+        "id": 3032,
+        "relations": "s_axis",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 3033,
+        "relations": "s_axis",
+        "source": 171,
+        "source_name": "Segâh/Hüzzam Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2551,
+        "relations": "t_related",
+        "source": 19,
+        "source_name": "Segâh/Müstear Çeşni",
+        "target": 44,
+        "target_name": "Eviç/Müstear Çesni"
+    },
+    {
+        "id": 2708,
+        "relations": "girift",
+        "source": 19,
+        "source_name": "Segâh/Müstear Çeşni",
+        "target": 79,
+        "target_name": "Segâh/Nikriz Çesni"
+    },
+    {
+        "id": 3034,
+        "relations": "p_axis",
+        "source": 19,
+        "source_name": "Segâh/Müstear Çeşni",
+        "target": 17,
+        "target_name": "SegâhPerde"
+    },
+    {
+        "id": 3035,
+        "relations": "s_axis",
+        "source": 19,
+        "source_name": "Segâh/Müstear Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 1994,
+        "relations": "girift",
+        "source": 79,
+        "source_name": "Segâh/Nikriz Çeşni",
+        "target": 86,
+        "target_name": "Nim Hicaz/Hicaz Çesni"
+    },
+    {
+        "id": 2553,
+        "relations": "t_related",
+        "source": 79,
+        "source_name": "Segâh/Nikriz Çeşni",
+        "target": 84,
+        "target_name": "Dik Hisar/Nikriz Çesni"
+    },
+    {
+        "id": 2707,
+        "relations": "girift",
+        "source": 79,
+        "source_name": "Segâh/Nikriz Çeşni",
+        "target": 19,
+        "target_name": "Segâh/Müstear Çesni"
+    },
+    {
+        "id": 3036,
+        "relations": "p_axis",
+        "source": 79,
+        "source_name": "Segâh/Nikriz Çeşni",
+        "target": 17,
+        "target_name": "SegâhPerde"
+    },
+    {
+        "id": 3037,
+        "relations": "s_axis",
+        "source": 79,
+        "source_name": "Segâh/Nikriz Çeşni",
+        "target": 42,
+        "target_name": "EviçPerde"
+    },
+    {
+        "id": 2006,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2007,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 2008,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 81,
+        "target_name": "Çargâh/Rast Çesni"
+    },
+    {
+        "id": 2009,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 2543,
+        "relations": "t_related",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 93,
+        "target_name": "Tiz Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2545,
+        "relations": "t_related",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 2546,
+        "relations": "t_related",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 2547,
+        "relations": "t_related",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 2761,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 2789,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 2791,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2801,
+        "relations": "girift",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 3038,
+        "relations": "p_axis",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 17,
+        "target_name": "SegâhPerde"
+    },
+    {
+        "id": 3039,
+        "relations": "s_axis",
+        "source": 18,
+        "source_name": "Segâh/Segâh Çeşni",
+        "target": 22,
+        "target_name": "NevâPerde"
+    },
+    {
+        "id": 2088,
+        "relations": "girift",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 2089,
+        "relations": "girift",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 90,
+        "target_name": "Muhayyer/Uşşak Çesni"
+    },
+    {
+        "id": 2554,
+        "relations": "t_related",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 18,
+        "target_name": "Segâh/Segâh Çesni"
+    },
+    {
+        "id": 2555,
+        "relations": "t_related",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 2556,
+        "relations": "t_related",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 43,
+        "target_name": "Eviç/Segâh Çesni"
+    },
+    {
+        "id": 3051,
+        "relations": "p_axis",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 92,
+        "target_name": "Tiz SegâhPerde"
+    },
+    {
+        "id": 3052,
+        "relations": "s_axis",
+        "source": 93,
+        "source_name": "Tiz Segâh/Segâh Çeşni",
+        "target": 161,
+        "target_name": "Tiz NevâPerde"
+    },
+    {
+        "id": 2126,
+        "relations": "t_related",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 2127,
+        "relations": "girift",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 60,
+        "target_name": "Hüseyni Aşiran/Kürdi Çesni"
+    },
+    {
+        "id": 2128,
+        "relations": "girift",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 2459,
+        "relations": "t_related",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2460,
+        "relations": "t_related",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 3055,
+        "relations": "p_axis",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3056,
+        "relations": "s_axis",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 3920,
+        "relations": "s_axis",
+        "source": 54,
+        "source_name": "Yegâh/Buselik Çeşni",
+        "target": 95,
+        "target_name": "Acem AşiranPerde"
+    },
+    {
+        "id": 2144,
+        "relations": "t_related",
+        "source": 56,
+        "source_name": "Yegâh/Hicaz Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2461,
+        "relations": "t_related",
+        "source": 56,
+        "source_name": "Yegâh/Hicaz Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 2462,
+        "relations": "t_related",
+        "source": 56,
+        "source_name": "Yegâh/Hicaz Çeşni",
+        "target": 3,
+        "target_name": "Dügâh/Hicaz Çesni"
+    },
+    {
+        "id": 3057,
+        "relations": "p_axis",
+        "source": 56,
+        "source_name": "Yegâh/Hicaz Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3058,
+        "relations": "s_axis",
+        "source": 56,
+        "source_name": "Yegâh/Hicaz Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 2160,
+        "relations": "t_related",
+        "source": 57,
+        "source_name": "Yegâh/Kürdi Çeşni",
+        "target": 16,
+        "target_name": "Rast/Kürdi Çesni"
+    },
+    {
+        "id": 2463,
+        "relations": "t_related",
+        "source": 57,
+        "source_name": "Yegâh/Kürdi Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 2464,
+        "relations": "t_related",
+        "source": 57,
+        "source_name": "Yegâh/Kürdi Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 3059,
+        "relations": "p_axis",
+        "source": 57,
+        "source_name": "Yegâh/Kürdi Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3060,
+        "relations": "s_axis",
+        "source": 57,
+        "source_name": "Yegâh/Kürdi Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 2176,
+        "relations": "girift",
+        "source": 74,
+        "source_name": "Yegâh/Nigar Çeşni",
+        "target": 168,
+        "target_name": "Hüseyni Aşiran/Buselik Çesni"
+    },
+    {
+        "id": 2465,
+        "relations": "t_related",
+        "source": 74,
+        "source_name": "Yegâh/Nigar Çeşni",
+        "target": 28,
+        "target_name": "Nevâ/Nigar Çesni"
+    },
+    {
+        "id": 2466,
+        "relations": "t_related",
+        "source": 74,
+        "source_name": "Yegâh/Nigar Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 3061,
+        "relations": "p_axis",
+        "source": 74,
+        "source_name": "Yegâh/Nigar Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3062,
+        "relations": "s_axis",
+        "source": 74,
+        "source_name": "Yegâh/Nigar Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 4003,
+        "relations": "s_axis",
+        "source": 74,
+        "source_name": "Yegâh/Nigar Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 2194,
+        "relations": "girift",
+        "source": 94,
+        "source_name": "Yegâh/Nikriz Çeşni",
+        "target": 62,
+        "target_name": "Hüseyni Aşiran/Hicaz Çesni"
+    },
+    {
+        "id": 2467,
+        "relations": "t_related",
+        "source": 94,
+        "source_name": "Yegâh/Nikriz Çeşni",
+        "target": 80,
+        "target_name": "Nevâ/Nikriz Çesni"
+    },
+    {
+        "id": 2468,
+        "relations": "t_related",
+        "source": 94,
+        "source_name": "Yegâh/Nikriz Çeşni",
+        "target": 172,
+        "target_name": "Dügâh/Nikriz Çesni"
+    },
+    {
+        "id": 2469,
+        "relations": "t_related",
+        "source": 94,
+        "source_name": "Yegâh/Nikriz Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 3063,
+        "relations": "p_axis",
+        "source": 94,
+        "source_name": "Yegâh/Nikriz Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3064,
+        "relations": "s_axis",
+        "source": 94,
+        "source_name": "Yegâh/Nikriz Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2211,
+        "relations": "t_related",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2212,
+        "relations": "girift",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 61,
+        "target_name": "Hüseyni Aşiran/Uşşak Çesni"
+    },
+    {
+        "id": 2213,
+        "relations": "girift",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 65,
+        "target_name": "Irak/Segâh Çesni"
+    },
+    {
+        "id": 2470,
+        "relations": "t_related",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 26,
+        "target_name": "Nevâ/Rast Çesni"
+    },
+    {
+        "id": 2471,
+        "relations": "t_related",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 111,
+        "target_name": "Dügâh/Rast Çesni"
+    },
+    {
+        "id": 3065,
+        "relations": "p_axis",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3066,
+        "relations": "s_axis",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3934,
+        "relations": "s_axis",
+        "source": 55,
+        "source_name": "Yegâh/Rast Çeşni",
+        "target": 1,
+        "target_name": "DügâhPerde"
+    },
+    {
+        "id": 2229,
+        "relations": "t_related",
+        "source": 125,
+        "source_name": "Yegâh/Uşşak Çeşni",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 2472,
+        "relations": "t_related",
+        "source": 125,
+        "source_name": "Yegâh/Uşşak Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 2473,
+        "relations": "t_related",
+        "source": 125,
+        "source_name": "Yegâh/Uşşak Çeşni",
+        "target": 4,
+        "target_name": "Dügâh/Uşşak Çesni"
+    },
+    {
+        "id": 3067,
+        "relations": "p_axis",
+        "source": 125,
+        "source_name": "Yegâh/Uşşak Çeşni",
+        "target": 53,
+        "target_name": "YegâhPerde"
+    },
+    {
+        "id": 3068,
+        "relations": "s_axis",
+        "source": 125,
+        "source_name": "Yegâh/Uşşak Çeşni",
+        "target": 2,
+        "target_name": "RastPerde"
+    },
+    {
+        "id": 3938,
+        "relations": "s_axis",
+        "source": 125,
+        "source_name": "Yegâh/Uşşak Çeşni",
+        "target": 95,
+        "target_name": "Acem AşiranPerde"
+    },
+    {
+        "id": 2265,
+        "relations": "t_related",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 47,
+        "target_name": "Gerdaniye/Buselik Çesni"
+    },
+    {
+        "id": 2267,
+        "relations": "girift",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 9,
+        "target_name": "Dügâh/Kürdi Çesni"
+    },
+    {
+        "id": 2268,
+        "relations": "girift",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 137,
+        "target_name": "Kürdi/Nigar Çesni"
+    },
+    {
+        "id": 2269,
+        "relations": "girift",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 101,
+        "target_name": "Nevâ/Kürdi Çesni"
+    },
+    {
+        "id": 2580,
+        "relations": "t_related",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 6,
+        "target_name": "Rast/Buselik Çesni"
+    },
+    {
+        "id": 3069,
+        "relations": "p_axis",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3070,
+        "relations": "s_axis",
+        "source": 103,
+        "source_name": "Çargâh/Buselik Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2586,
+        "relations": "t_related",
+        "source": 177,
+        "source_name": "Çargâh/Hicaz Çeşni",
+        "target": 49,
+        "target_name": "Gerdaniye/Hicaz Çesni"
+    },
+    {
+        "id": 2587,
+        "relations": "t_related",
+        "source": 177,
+        "source_name": "Çargâh/Hicaz Çeşni",
+        "target": 78,
+        "target_name": "Rast/Hicaz Çesni"
+    },
+    {
+        "id": 2709,
+        "relations": "girift",
+        "source": 177,
+        "source_name": "Çargâh/Hicaz Çeşni",
+        "target": 176,
+        "target_name": "Çargâh/Uzzal Çesni"
+    },
+    {
+        "id": 2728,
+        "relations": "girift",
+        "source": 177,
+        "source_name": "Çargâh/Hicaz Çeşni",
+        "target": 183,
+        "target_name": "Kürdi/Nikriz Çesni"
+    },
+    {
+        "id": 3071,
+        "relations": "p_axis",
+        "source": 177,
+        "source_name": "Çargâh/Hicaz Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3072,
+        "relations": "s_axis",
+        "source": 177,
+        "source_name": "Çargâh/Hicaz Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 2294,
+        "relations": "t_related",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 51,
+        "target_name": "Gerdaniye/Nigâr Çesni"
+    },
+    {
+        "id": 2295,
+        "relations": "t_related",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 109,
+        "target_name": "Acem Aşiran/Nigar Çesni"
+    },
+    {
+        "id": 2296,
+        "relations": "girift",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 8,
+        "target_name": "Dügâh/Buselik Çesni"
+    },
+    {
+        "id": 2297,
+        "relations": "girift",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 169,
+        "target_name": "Buselik/Kürdi Çesni"
+    },
+    {
+        "id": 2298,
+        "relations": "girift",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 23,
+        "target_name": "Nevâ/Buselik Çesni"
+    },
+    {
+        "id": 2299,
+        "relations": "girift",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 33,
+        "target_name": "Hüseyni/Kürdi Çesni"
+    },
+    {
+        "id": 2575,
+        "relations": "t_related",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 14,
+        "target_name": "Rast/Nigar Çesni"
+    },
+    {
+        "id": 2576,
+        "relations": "t_related",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 72,
+        "target_name": "Acem/Nigâr Çesni"
+    },
+    {
+        "id": 2778,
+        "relations": "girift",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 10,
+        "target_name": "Dügâh/Hüseyni Çesni"
+    },
+    {
+        "id": 3073,
+        "relations": "p_axis",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3074,
+        "relations": "s_axis",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 4013,
+        "relations": "s_axis",
+        "source": 37,
+        "source_name": "Çargâh/Nigar Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 2323,
+        "relations": "t_related",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 87,
+        "target_name": "Gerdaniye/Nikriz Çesni"
+    },
+    {
+        "id": 2324,
+        "relations": "t_related",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 96,
+        "target_name": "Acem Aşiran/Nikriz Çesni"
+    },
+    {
+        "id": 2325,
+        "relations": "girift",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 171,
+        "target_name": "Segâh/Hüzzam Çesni"
+    },
+    {
+        "id": 2326,
+        "relations": "girift",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 24,
+        "target_name": "Nevâ/Hicaz Çesni"
+    },
+    {
+        "id": 2578,
+        "relations": "t_related",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 12,
+        "target_name": "Rast/Nikriz Çesni"
+    },
+    {
+        "id": 2579,
+        "relations": "t_related",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 40,
+        "target_name": "Acem/Nikriz Çesni"
+    },
+    {
+        "id": 2745,
+        "relations": "girift",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 25,
+        "target_name": "Nevâ/Uzzal Çesni"
+    },
+    {
+        "id": 3075,
+        "relations": "p_axis",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3076,
+        "relations": "s_axis",
+        "source": 100,
+        "source_name": "Çargâh/Nikriz Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2572,
+        "relations": "t_related",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 50,
+        "target_name": "Gerdaniye/Rast Çesni"
+    },
+    {
+        "id": 2573,
+        "relations": "t_related",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 5,
+        "target_name": "Rast/Rast Çesni"
+    },
+    {
+        "id": 2798,
+        "relations": "girift",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 27,
+        "target_name": "Nevâ/Uşşak Çesni"
+    },
+    {
+        "id": 2807,
+        "relations": "girift",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 83,
+        "target_name": "Dik Hisar/Segâh Çesni"
+    },
+    {
+        "id": 3079,
+        "relations": "p_axis",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3080,
+        "relations": "s_axis",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 3081,
+        "relations": "s_axis",
+        "source": 81,
+        "source_name": "Çargâh/Rast Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2585,
+        "relations": "t_related",
+        "source": 176,
+        "source_name": "Çargâh/Uzzal Çeşni",
+        "target": 15,
+        "target_name": "Rast/Uzzal Çesni"
+    },
+    {
+        "id": 2710,
+        "relations": "girift",
+        "source": 176,
+        "source_name": "Çargâh/Uzzal Çeşni",
+        "target": 177,
+        "target_name": "Çargâh/Hicaz Çesni"
+    },
+    {
+        "id": 2729,
+        "relations": "girift",
+        "source": 176,
+        "source_name": "Çargâh/Uzzal Çeşni",
+        "target": 183,
+        "target_name": "Kürdi/Nikriz Çesni"
+    },
+    {
+        "id": 3082,
+        "relations": "p_axis",
+        "source": 176,
+        "source_name": "Çargâh/Uzzal Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3083,
+        "relations": "s_axis",
+        "source": 176,
+        "source_name": "Çargâh/Uzzal Çeşni",
+        "target": 46,
+        "target_name": "GerdaniyePerde"
+    },
+    {
+        "id": 2582,
+        "relations": "t_related",
+        "source": 114,
+        "source_name": "Çargâh/Uşşak Çeşni",
+        "target": 48,
+        "target_name": "Gerdaniye/Uşşak Çesni"
+    },
+    {
+        "id": 2583,
+        "relations": "t_related",
+        "source": 114,
+        "source_name": "Çargâh/Uşşak Çeşni",
+        "target": 112,
+        "target_name": "Rast/Uşşak Çesni"
+    },
+    {
+        "id": 3084,
+        "relations": "p_axis",
+        "source": 114,
+        "source_name": "Çargâh/Uşşak Çeşni",
+        "target": 36,
+        "target_name": "ÇargâhPerde"
+    },
+    {
+        "id": 3085,
+        "relations": "s_axis",
+        "source": 114,
+        "source_name": "Çargâh/Uşşak Çeşni",
+        "target": 39,
+        "target_name": "AcemPerde"
+    },
+    {
+        "id": 3939,
+        "relations": "s_axis",
+        "source": 114,
+        "source_name": "Çargâh/Uşşak Çeşni",
+        "target": 138,
+        "target_name": "Nim HisarPerde"
+    }
+]
