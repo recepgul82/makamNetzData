@@ -3,7 +3,8 @@ MakamNetz Çeşni Ağı veritabanı Prof.Dr. Ozan Baysal’ın (İstanbul Teknik
 Baysal, O. Gül, R., Şeftali Y.C., Yalçın, Z., Çolakoğlu Sarı, G. (2024). “Introducing MakamNetz – A Virtual Guide to Turkish Makam Universe”.  Sound and Music Computing, SMC 2024. ESMAE, Porto, Portugal, 4-6 July 2024.
 
 Şeftali, Y.C., Baysal, O., Çolakoğlu Sarı, G., Gül, R. (2024).   
-https://github.com/recepgul82/makamNetzData/tree/main/cesni_agi \\
+https://github.com/recepgul82/makamNetzData/tree/main/cesni_agi
+
 https://github.com/recepgul82/makamNetzData/tree/main/makamlar
 
 
@@ -12,7 +13,8 @@ The MakamNetz Çeşni Network database was prepared within the scope of the TÜB
 Baysal, O. Gül, R., Şeftali Y.C., Yalçın, Z., Çolakoğlu Sarı, G. (2024). “Introducing MakamNetz – A Virtual Guide to Turkish Makam Universe”.  Sound and Music Computing, SMC 2024. ESMAE, Porto, Portugal, 4-6 July 2024.
 
 Şeftali, Y.C., Baysal, O., Çolakoğlu Sarı, G., Gül, R. (2024).   
-https://github.com/recepgul82/makamNetzData/tree/main/cesni_agi \\
+https://github.com/recepgul82/makamNetzData/tree/main/cesni_agi 
+
 https://github.com/recepgul82/makamNetzData/tree/main/makamlar
 
 
